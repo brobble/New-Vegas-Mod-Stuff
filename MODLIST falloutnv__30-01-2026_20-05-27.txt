@@ -1,0 +1,103 @@
+[Mod] The Mod Configuration Menu-42507-1-5 [Filename] The Mod Configuration Menu-42507-1-5.7z [link] https://www.nexusmods.com/newvegas/mods/42507/
+[Mod] OneTweak-79211-2-1-0-4-1676812882 [Filename] OneTweak-79211-2-1-0-4-1676812882.7z [link] https://www.nexusmods.com/newvegas/mods/79211/
+[Mod] NVAC - New Vegas Anti Crash-53635-7-5-1-0 [Filename] NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip [link] https://www.nexusmods.com/newvegas/mods/53635/
+[Mod] Altitude-71404-3-1-1635272575 [Filename] Altitude-71404-3-1-1635272575.7z [link] https://www.nexusmods.com/newvegas/mods/71404/
+[Mod] JIP LN NVSE Plugin-58277-57-30-1716662080 [Filename] JIP LN NVSE Plugin-58277-57-30-1716662080.7z [link] https://www.nexusmods.com/newvegas/mods/58277/
+[Mod] JohnnyGuitar NVSE-66927-5-20-1765115538 [Filename] JohnnyGuitar NVSE-66927-5-20-1765115538.7z [link] https://www.nexusmods.com/newvegas/mods/66927/
+[Mod] Simple Interior Lighting Enhancement-71390-2-0-1-1764177109 [Filename] Simple Interior Lighting Enhancement-71390-2-0-1-1764177109.7z [link] https://www.nexusmods.com/newvegas/mods/71390/
+[Mod] NVTF-66537-10-61-1756195258 [Filename] NVTF-66537-10-61-1756195258.7z [link] https://www.nexusmods.com/newvegas/mods/66537/
+[Mod] Strings of New Vegas-76113-3-0-1650001067 [Filename] Strings of New Vegas-76113-3-0-1650001067.rar [link] https://www.nexusmods.com/newvegas/mods/76113/
+[Mod] Cursor Unilaterially Matched (NVSE) - Vanilla-72934-1-0-1625419559 [Filename] Cursor Unilaterially Matched (NVSE) - Vanilla-72934-1-0-1625419559.7z [link] https://www.nexusmods.com/newvegas/mods/72934/
+[Mod] Unofficial Patch NVSE Plus-71239-1-6-2-1764839133 [Filename] Unofficial Patch NVSE Plus-71239-1-6-2-1764839133.7z [link] https://www.nexusmods.com/newvegas/mods/71239/
+[Mod] UIO - User Interface Organizer-57174-2-30-1629600625 [Filename] UIO - User Interface Organizer-57174-2-30-1629600625.7z [link] https://www.nexusmods.com/newvegas/mods/57174/
+[Mod] kNVSE-71336-37-1731454771 [Filename] kNVSE-71336-37-1731454771.7z [link] https://www.nexusmods.com/newvegas/mods/71336/
+[Mod] Fanning Revolver Animation 2.0-70809-2-0-1612173014 [Filename] Fanning Revolver Animation 2.0-70809-2-0-1612173014.rar [link] https://www.nexusmods.com/newvegas/mods/70809/
+[Mod] Just Assorted Mods-66666-4-6-1717763151 [Filename] Just Assorted Mods-66666-4-6-1717763151.7z [link] https://www.nexusmods.com/newvegas/mods/66666/
+[Mod] Subtle Camera Motion-67728-1-0-1571106365 [Filename] Subtle Camera Motion-67728-1-0-1571106365.7z [link] https://www.nexusmods.com/newvegas/mods/67728/
+[Mod] YUP - Base Game and All DLC-51664-13-7-1-1768834391 [Filename] YUP - Base Game and All DLC-51664-13-7-1-1768834391.7z [link] https://www.nexusmods.com/newvegas/mods/51664/
+[Mod] IMPACT - The Basement Dweller-57113-2-0 [Filename] IMPACT - The Basement Dweller-57113-2-0.7z [link] https://www.nexusmods.com/newvegas/mods/57113/
+[Mod] B42 Inertia - Scriptrunner-64335-1-4-1767968088 [Filename] B42 Inertia - Scriptrunner-64335-1-4-1767968088.zip [link] https://www.nexusmods.com/newvegas/mods/64335/
+[Mod] NVCS Installer-68776-13-1675087064 [Filename] NVCS Installer-68776-13-1675087064.zip [link] https://www.nexusmods.com/newvegas/mods/68776/
+[Mod] ShowOff INI-72541-1-1650847630 [Filename] ShowOff INI-72541-1-1650847630.7z [link] https://www.nexusmods.com/newvegas/mods/72541/
+[Mod] Sticky Ragdoll Camera-64437-1-0b [Filename] Sticky Ragdoll Camera-64437-1-0b.7z [link] https://www.nexusmods.com/newvegas/mods/64437/
+[Mod] Weapon Mesh Improvement Mod-65052-1-3-1658869646 [Filename] Weapon Mesh Improvement Mod-65052-1-3-1658869646.7z [link] https://www.nexusmods.com/newvegas/mods/65052/
+[Mod] Better Posture V1_0-50804-1-0 [Filename] Better Posture V1_0-50804-1-0.zip [link] https://www.nexusmods.com/newvegas/mods/50804/
+[Mod] MLF-68714-4-0-1769444746 [Filename] MLF-68714-4-0-1769444746.7z [link] https://www.nexusmods.com/newvegas/mods/68714/
+[Mod] Vanilla Underwear Replacer v1-1-64006-1-1 [Filename] Vanilla Underwear Replacer v1-1-64006-1-1.7z [link] https://www.nexusmods.com/newvegas/mods/64006/
+[Mod] No More DLC Messages (No Plugin)-75686-1-1-1768207821 [Filename] No More DLC Messages (No Plugin)-75686-1-1-1768207821.7z [link] https://www.nexusmods.com/newvegas/mods/75686/
+[Mod] Fast Weapon Lag Fix-71973-1-0-1617537597 [Filename] Fast Weapon Lag Fix-71973-1-0-1617537597.zip [link] https://www.nexusmods.com/newvegas/mods/71973/
+[Mod] Diagonal Movement 0.6b-64333-0-6b-1655024628 [Filename] Diagonal Movement 0.6b-64333-0-6b-1655024628.zip [link] https://www.nexusmods.com/newvegas/mods/64333/
+[Mod] AwesomeStaggering-77543-1-5-1663687318 [Filename] AwesomeStaggering-77543-1-5-1663687318.zip [link] https://www.nexusmods.com/newvegas/mods/77543/
+[Mod] Walking Inertia-71373-2-0-1660525142 [Filename] Walking Inertia-71373-2-0-1660525142.7z [link] https://www.nexusmods.com/newvegas/mods/71373/
+[Mod] rockbiter Locomotion-78564-1-0-1665153505 [Filename] rockbiter Locomotion-78564-1-0-1665153505.rar [link] https://www.nexusmods.com/newvegas/mods/78564/
+[Mod] Viewmodel Recoil 0.308-71852-0-308-1621847906 [Filename] Viewmodel Recoil 0.308-71852-0-308-1621847906.zip [link] https://www.nexusmods.com/newvegas/mods/71852/
+[Mod] SUP NVSE Plugin-73160-8-55-1703949554 [Filename] SUP NVSE Plugin-73160-8-55-1703949554.rar [link] https://www.nexusmods.com/newvegas/mods/73160/
+[Mod] FNV Clean Animations-70599-2-3-1700595310 [Filename] FNV Clean Animations-70599-2-3-1700595310.rar [link] https://www.nexusmods.com/newvegas/mods/70599/
+[Mod] Melee VATS Animation Restoration-73480-1-1630088894 [Filename] Melee VATS Animation Restoration-73480-1-1630088894.zip [link] https://www.nexusmods.com/newvegas/mods/73480/
+[Mod] Combat Enhancer-58431-1-0 [Filename] Combat Enhancer-58431-1-0.rar [link] https://www.nexusmods.com/newvegas/mods/58431/
+[Mod] Iron Sights Recoil Anims-67760-1-3a-1599673982 [Filename] Iron Sights Recoil Anims-67760-1-3a-1599673982.7z [link] https://www.nexusmods.com/newvegas/mods/67760/
+[Mod] Immersive Pickup Sounds Patched-70552-1-0-1607145298 [Filename] Immersive Pickup Sounds Patched-70552-1-0-1607145298.7z [link] https://www.nexusmods.com/newvegas/mods/70552/
+[Mod] MCM BugFix 2-42507- [Filename] MCM BugFix 2-42507-.7z [link] https://www.nexusmods.com/newvegas/mods/42507/
+[Mod] FOV Slider-55085-2-9-1586064165 [Filename] FOV Slider-55085-2-9-1586064165.7z [link] https://www.nexusmods.com/newvegas/mods/55085/
+[Mod] Casino Anti Anti Cheat-35207 [Filename] Casino Anti Anti Cheat-35207.rar [link] https://www.nexusmods.com/newvegas/mods/35207/
+[Mod] PatrolArmorFix 1_1-37111-1 [Filename] PatrolArmorFix 1_1-37111-1.7z [link] https://www.nexusmods.com/newvegas/mods/37111/
+[Mod] ShowOff xNVSE-72541-1-82-1768507181 [Filename] ShowOff xNVSE-72541-1-82-1768507181.7z [link] https://www.nexusmods.com/newvegas/mods/72541/
+[Mod] Goodsprings Wasteland Adventurer Restoration-48865-1 [Filename] Goodsprings Wasteland Adventurer Restoration-48865-1.zip [link] https://www.nexusmods.com/newvegas/mods/48865/
+[Mod] Dead Courier's Stash-67432-3-0-1-1682462754 [Filename] Dead Courier's Stash-67432-3-0-1-1682462754.zip [link] https://www.nexusmods.com/newvegas/mods/67432/
+[Mod] Adjusted Gambler Hats - Mid-65794-1-1540111808 [Filename] Adjusted Gambler Hats - Mid-65794-1-1540111808.zip [link] https://www.nexusmods.com/newvegas/mods/65794/
+[Mod] Lower-sitting Ranger Hats-68799-1-1-1588801119 [Filename] Lower-sitting Ranger Hats-68799-1-1-1588801119.zip [link] https://www.nexusmods.com/newvegas/mods/68799/
+[Mod] Raw Cow Hat-65421-1 [Filename] Raw Cow Hat-65421-1.rar [link] https://www.nexusmods.com/newvegas/mods/65421/
+[Mod] Gun Runners Kiosk Glass Fix-70293-1-0-1604558721 [Filename] Gun Runners Kiosk Glass Fix-70293-1-0-1604558721.7z [link] https://www.nexusmods.com/newvegas/mods/70293/
+[Mod] Female White Glove Society Mask Fix-66940-2-1-1648599967 [Filename] Female White Glove Society Mask Fix-66940-2-1-1648599967.7z [link] https://www.nexusmods.com/newvegas/mods/66940/
+[Mod] RobCo Termlink Copyright Consistency Fix-73607-1-0-0-0-1631209653 [Filename] RobCo Termlink Copyright Consistency Fix-73607-1-0-0-0-1631209653.zip [link] https://www.nexusmods.com/newvegas/mods/73607/
+[Mod] The Moon Comes Over The Tower - Restored-63684-1-1 [Filename] The Moon Comes Over The Tower - Restored-63684-1-1.zip [link] https://www.nexusmods.com/newvegas/mods/63684/
+[Mod] Ringo Faction Fix-52837-v1-0 [Filename] Ringo Faction Fix-52837-v1-0.rar [link] https://www.nexusmods.com/newvegas/mods/52837/
+[Mod] Sleep Wait Hardcore Needs-85148-3-0-1-1768781095 [Filename] Sleep Wait Hardcore Needs-85148-3-0-1-1768781095.zip [link] https://www.nexusmods.com/newvegas/mods/85148/
+[Mod] VATS Lag Fix-84823-1-0-1706985218 [Filename] VATS Lag Fix-84823-1-0-1706985218.zip [link] https://www.nexusmods.com/newvegas/mods/84823/
+[Mod] Securitron Siren Restored - No ESP-70851-2-0-1635474650 [Filename] Securitron Siren Restored - No ESP-70851-2-0-1635474650.7z [link] https://www.nexusmods.com/newvegas/mods/70851/
+[Mod] Veronica You're Not In The Brotherhood Anymore-78897-1-0-1667673240 [Filename] Veronica You're Not In The Brotherhood Anymore-78897-1-0-1667673240.zip [link] https://www.nexusmods.com/newvegas/mods/78897/
+[Mod] VeronicaLovesVerasOutfit-45661-1-0 [Filename] VeronicaLovesVerasOutfit-45661-1-0.7z [link] https://www.nexusmods.com/newvegas/mods/45661/
+[Mod] Fog-based Object Culling-79516-2-1673628097 [Filename] Fog-based Object Culling-79516-2-1673628097.7z [link] https://www.nexusmods.com/newvegas/mods/79516/
+[Mod] Engine Optimizations-80993-1-0-1693171685 [Filename] Engine Optimizations-80993-1-0-1693171685.zip [link] https://www.nexusmods.com/newvegas/mods/80993/
+[Mod] zlib Updated - NVSE-85267-1-1-1711358337 [Filename] zlib Updated - NVSE-85267-1-1-1711358337.7z [link] https://www.nexusmods.com/newvegas/mods/85267/
+[Mod] Performance for the People - FOMOD-80922-2-1-1-1683395618 [Filename] Performance for the People - FOMOD-80922-2-1-1-1683395618.7z [link] https://www.nexusmods.com/newvegas/mods/80922/
+[Mod] Aqua Performa - Strip Performance Fix-78617-2-0-1710648993 [Filename] Aqua Performa - Strip Performance Fix-78617-2-0-1710648993.zip [link] https://www.nexusmods.com/newvegas/mods/78617/
+[Mod] 1st Person Sliding Fix-85247-1-25-1709590281 [Filename] 1st Person Sliding Fix-85247-1-25-1709590281.7z [link] https://www.nexusmods.com/newvegas/mods/85247/
+[Mod] ActorCause Save Bloat Fix-80666-1-0-1680643208 [Filename] ActorCause Save Bloat Fix-80666-1-0-1680643208.zip [link] https://www.nexusmods.com/newvegas/mods/80666/
+[Mod] Armed to the Teeth - Redux-74936-2-3-1642677124 [Filename] Armed to the Teeth - Redux-74936-2-3-1642677124.7z [link] https://www.nexusmods.com/newvegas/mods/74936/
+[Mod] 3rd Person Animation Fixpack-85198-1-31-1769547340 [Filename] 3rd Person Animation Fixpack-85198-1-31-1769547340.7z [link] https://www.nexusmods.com/newvegas/mods/85198/
+[Mod] ITEM-85622-3-0-1754402452 [Filename] ITEM-85622-3-0-1754402452.zip [link] https://www.nexusmods.com/newvegas/mods/85622/
+[Mod] Stewie Tweaks-66347-9-81-1766438632 [Filename] Stewie Tweaks-66347-9-81-1766438632.zip [link] https://www.nexusmods.com/newvegas/mods/66347/
+[Mod] Better Character Creation-70973-1-9a-1700341717 [Filename] Better Character Creation-70973-1-9a-1700341717.7z [link] https://www.nexusmods.com/newvegas/mods/70973/
+[Mod] Dog Sneak Animations-96002-1-02-1769486591 [Filename] Dog Sneak Animations-96002-1-02-1769486591.7z [link] https://www.nexusmods.com/newvegas/mods/96002/
+[Mod] Ed-E Sneak Animations-94901-1-0-1765067935 [Filename] Ed-E Sneak Animations-94901-1-0-1765067935.7z [link] https://www.nexusmods.com/newvegas/mods/94901/
+[Mod] Essential DLC Enhancements Merged-73803-1-4-2-1737310527 [Filename] Essential DLC Enhancements Merged-73803-1-4-2-1737310527.7z [link] https://www.nexusmods.com/newvegas/mods/73803/
+[Mod] Idle Variety-85718-1-40a-1768244316 [Filename] Idle Variety-85718-1-40a-1768244316.7z [link] https://www.nexusmods.com/newvegas/mods/85718/
+[Mod] MAC-10-83815-14-5-1768005024 [Filename] MAC-10-83815-14-5-1768005024.zip [link] https://www.nexusmods.com/newvegas/mods/83815/
+[Mod] IMPACT Compatibility Edition-62050-2-07-1764457252 [Filename] IMPACT Compatibility Edition-62050-2-07-1764457252.rar [link] https://www.nexusmods.com/newvegas/mods/62050/
+[Mod] JIP LN Settings INI-58277-56-24-1691190751 [Filename] JIP LN Settings INI-58277-56-24-1691190751.7z [link] https://www.nexusmods.com/newvegas/mods/58277/
+[Mod] KEYWORDS-83088-1-01-1695964898 [Filename] KEYWORDS-83088-1-01-1695964898.7z [link] https://www.nexusmods.com/newvegas/mods/83088/
+[Mod] MCM Extender-93642-1-5-0-1767739728 [Filename] MCM Extender-93642-1-5-0-1767739728.zip [link] https://www.nexusmods.com/newvegas/mods/93642/
+[Mod] NVTF - INI-66537-1-06-1751295478 [Filename] NVTF - INI-66537-1-06-1751295478.7z [link] https://www.nexusmods.com/newvegas/mods/66537/
+[Mod] Pip-Boy Light Indicator-93484-1-2-1758251874 [Filename] Pip-Boy Light Indicator-93484-1-2-1758251874.7z [link] https://www.nexusmods.com/newvegas/mods/93484/
+[Mod] Strip Wall Billboards-56257-1-01-1661092926 [Filename] Strip Wall Billboards-56257-1-01-1661092926.zip [link] https://www.nexusmods.com/newvegas/mods/56257/
+[Mod] Footsteps Volume Fixes - FNV-76970-1-01-1654874879 [Filename] Footsteps Volume Fixes - FNV-76970-1-01-1654874879.7z [link] https://www.nexusmods.com/newvegas/mods/76970/
+[Mod] Grimy Pre-War Businesswear Texture Fix-37052-1 [Filename] Grimy Pre-War Businesswear Texture Fix-37052-1.zip [link] https://www.nexusmods.com/newvegas/mods/37052/
+[Mod] Just Sprint Plus - Expansion for JAM and JVS-83797-1-080-1708655206 [Filename] Just Sprint Plus - Expansion for JAM and JVS-83797-1-080-1708655206.7z [link] https://www.nexusmods.com/newvegas/mods/83797/
+[Mod] Natural Duster Coats-78260-1-52-1709106394 [Filename] Natural Duster Coats-78260-1-52-1709106394.7z [link] https://www.nexusmods.com/newvegas/mods/78260/
+[Mod] SimplyUncutJoshuaGrahamZionFix-69556-1-0-1596023040 [Filename] SimplyUncutJoshuaGrahamZionFix-69556-1-0-1596023040.7z [link] https://www.nexusmods.com/newvegas/mods/69556/
+[Mod] Improved Console-70801-3-1702935922 [Filename] Improved Console-70801-3-1702935922.7z [link] https://www.nexusmods.com/newvegas/mods/70801/
+[Mod] Restored Physics Sounds-90895-2-0-1767631995 [Filename] Restored Physics Sounds-90895-2-0-1767631995.zip [link] https://www.nexusmods.com/newvegas/mods/90895/
+[Mod] Simply Overhauled Dialogue - Ontologically Metapho-86916-1-1715791403 [Filename] Simply Overhauled Dialogue - Ontologically Metapho-86916-1-1715791403.zip [link] https://www.nexusmods.com/newvegas/mods/86916/
+[Mod] Configurable Pip-Boy Light Color (No Plugin)-73792-2-9-1767849914 [Filename] Configurable Pip-Boy Light Color (No Plugin)-73792-2-9-1767849914.7z [link] https://www.nexusmods.com/newvegas/mods/73792/
+[Mod] Terminals Use HUD Color NV-37722-1-0 [Filename] Terminals Use HUD Color NV-37722-1-0.7z [link] https://www.nexusmods.com/newvegas/mods/37722/
+[Mod] New Vegas Script Extender (xNVSE)-67883-6-4-4-1765917570 [Filename] New Vegas Script Extender (xNVSE)-67883-6-4-4-1765917570.7z [link] https://www.nexusmods.com/newvegas/mods/67883/
+[Mod] Stewie Tweaks INI-66347-2-1-1562243757 [Filename] Stewie Tweaks INI-66347-2-1-1562243757.zip [link] https://www.nexusmods.com/newvegas/mods/66347/
+[Mod] Main Title Unilaterally Matched-75616-1-1-1648136877 [Filename] Main Title Unilaterally Matched-75616-1-1-1648136877.zip [link] https://www.nexusmods.com/newvegas/mods/75616/
+[Mod] Ragdolls-59147-5-3-9--1606565785 [Filename] Ragdolls-59147-5-3-9--1606565785.7z [link] https://www.nexusmods.com/newvegas/mods/59147/
+[Mod] Hymn of The New West-92127-1-0-1746746753 [Filename] Hymn of The New West-92127-1-0-1746746753.7z [link] https://www.nexusmods.com/newvegas/mods/92127/
+[Mod] Hymn of The New West-85227-1-1-1718616199 [Filename] Hymn of The New West-85227-1-1-1718616199.7z [link] https://www.nexusmods.com/newvegas/mods/85227/
+[Mod] Vanilla_UI_Plus_New_Vegas_948.1 [Filename] Vanilla_UI_Plus_New_Vegas_948.1.7z
+[Mod] Fallout 4 Survival Damage (NVSE)-70245-1-0-1611592838 [Filename] Fallout 4 Survival Damage (NVSE)-70245-1-0-1611592838.7z [link] https://www.nexusmods.com/newvegas/mods/70245/
+[Mod] Faster Pip-Boy Animation (2x)-67761-1-0-1571797210 [Filename] Faster Pip-Boy Animation (2x)-67761-1-0-1571797210.zip
+[Mod] Br0b's Simple Starting Point-rev25 [Filename] Br0b's Simple Starting Point-rev25.7z
