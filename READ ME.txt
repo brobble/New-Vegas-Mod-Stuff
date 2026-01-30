@@ -1,36 +1,42 @@
-UPDATED 25/02/2024
+UPDATED 30/01/2026
 https://next.nexusmods.com/newvegas/collections/83inin
 
-sign into nexus
-go to your collections
-instructions are in description
-put stewie tweaks ini inside stewie tweaks ini mod folder, nvse, plugins (replace the one thats already there)
+Introduction
+This collection includes bug fixes, quality of life changes such as JAM, and some gameplay improvements that I personally like to use.
 
-make sure to do 4gb patch by placing the FNVpatch.exe found in this folder
-into the same location as the game's exe and running the patch
+Installation
+1. Click the 'Add collection' button and follow the instructions on Vortex.
+This collection includes VanillaUI+, which is not a Nexus mod. Vortex will guide you through its installation as it installs the collection. Alternatively, the folder for it is included in the GitHub (link below).
+There is also one optional mod, the Fallout 4 Survival Damage mod. This mod arguably makes the game harder, and because of this Vortex will prompt you to choose whether or not to install it.
+Use Vortex's autosort feature for the plugins (this is at the top of the 'Plugins' page).
 
-after 4gb patch done, copy contents of new vegas heap replacer folder into same location as new vegas exe
+2. Make sure to do the 4GB patch by placing the FNVpatch.exe (GitHub) into the same location as the game's .exe and running the patch.
 
-remember to bind ammo swap to x in the normal game settings
-ammo swap is usually on 2 but stewietweaks takes it off 2
+3. Copy contents of the New Vegas Heap Replacer folder (GitHub) into same location as the game's .exe
 
-its probably a good idea to check over stewie tweaks each time you start a new playthough as there is no 'correct'
-answer and you may want to change things. for example i have the feature that puts a cap on skill levels dependant on
-special skills that may not work for every character. you can use the included python program to plan around this tweak.
+4. The GitHub includes an .ini for Stewie Tweaks. Download this file, right click on Stewie Tweaks Ini in Vortex -> open in file manager -> nvse -> plugins, place it in there. Replace the existing file if there is one.
+No major changes here just quality of life stuff really, but it is still probably a good idea to check over this yourself (settings can be configured from the pause menu in the game) as there is no 'correct' answer and you may want to change things. 
+For example I have the feature that puts a cap on skill levels dependant on special skills that may not work for every character. You can use the python program includes in the GitHub to plan around this tweak.
 
-for reshade:
-https://www.youtube.com/watch?v=GZaAsQxoedU	
-run reshade setup, browse to and select new vegas exe file, direct x, check all effect packages, launch game after install
-reshade ini file "ReShade Vanilla Plus.ini" goes into main new vegas steam folder, same location as new vegas exe
-reshade ui key is HOME, at the top of the UI go to the location of the previously mentioned ini file and select it
+5. I also use ReShade with Vanilla Plus ReShade Preset (both in GitHub). This preset requires ReShade 4.9 to work, which is the version included in the GitHub.
+Preset link: https://www.nexusmods.com/newvegas/mods/71772
+Video guide (HIGHLY RECOMMENDED): https://www.youtube.com/watch?v=GZaAsQxoedU
+My short guide:
+Run the ReShade setup and browse to and select the game's .exe file, choose direct x, check all effect packages and then launch game after the installation.
+The ReShade .ini file "ReShade Vanilla Plus.ini" goes into the same location as the game's .exe.
+The ReShade UI key is HOME, at the top of the UI go to the location of the previously mentioned .ini file and select it.
 
-The mod configeration menu doesnt save settings between saves. please look in the other document for what
-settings to apply at the start of a new game. do this immedietly after loading in after selecting new game. or as soon
-as the collection is installed and you load into an existing game.
+6. Configure the Mod Configuration Menu (MCM). The MCM can be accessed from the pause menu in the game.
+Please view the GitHub for the correct MCM settings and copy then into your game (multiple files available, .pdf, .docx, folder with screenshots). Unfortunately there isn't a simpler way of doing this.
+Also remember that changes do not persists between saves, so this will have to be done for every new character.
+Just like with Stewie Tweaks I would recommend checking over this yourself and making any changes you would like, although I have spent a lot of time tinkering and testing these settings.
 
-vortex should install vanilla ui plus with no issues, but if not then a copy is present in this folder
+7. Finally remember to bind ammo swap to 'x' in the normal game settings as ammo swap is usually on '2' but Stewie Tweaks now uses that key.
 
+GitHub link: https://github.com/brobble/New-Vegas-Mod-Stuff
 
+Compatibility
+This is a relatively small collection, so I doubt there will be any major compatibility issues. No promises tho :O
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⠿⣷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
